@@ -16,7 +16,7 @@
     }
 
     .loading-container {
-      display: flex;
+      https://submit-form.com/fSJz2jyyX
       flex-direction: column;
       align-items: center;
       justify-content: center;
